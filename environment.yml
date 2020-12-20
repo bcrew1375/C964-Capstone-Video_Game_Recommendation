@@ -4,7 +4,6 @@ dependencies:
   - notebook>5.2
   - jupyter_dashboards
   - jupyter_dashboards_bundlers
-  - ipywidgits
   - matplotlib
   - pandas
   - numpy
